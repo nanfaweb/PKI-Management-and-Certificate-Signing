@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            b2:f1:b8:a3:54:a8:f3:d0:e9:ed:51:d0:9f:99:ba:83
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=CyberShield Global Root Authority
+        Validity
+            Not Before: Oct  4 10:00:40 2026 GMT
+            Not After : Jan  6 10:00:40 2029 GMT
+        Subject: CN=FAST University
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c3:8e:51:99:05:f0:07:c8:92:2f:88:5b:0d:a3:
+                    06:b1:8e:fa:ce:62:50:6b:01:fa:b7:de:7d:5b:3f:
+                    85:cf:4b:c6:7b:97:bc:de:5b:bb:4f:a4:00:69:a5:
+                    81:a5:11:56:a1:b6:c7:6f:f2:a1:e4:4b:80:6f:6c:
+                    50:60:ac:6d:c2:0e:df:f4:2d:7d:80:dd:81:60:41:
+                    9e:fd:32:38:7b:b0:c3:37:0c:ae:57:cb:e4:3b:ee:
+                    5e:9e:a8:e2:b9:58:39:17:21:e5:b1:4a:39:8e:1b:
+                    6d:1f:0a:36:4f:73:06:c9:c4:8c:79:d9:0a:67:46:
+                    42:d0:0b:c8:44:2f:86:a9:14:59:ec:b0:ab:8e:ce:
+                    c5:5b:d5:39:69:8f:18:16:cf:b7:b7:de:9c:9b:68:
+                    1f:7d:98:31:54:22:ed:0a:d9:5a:06:94:1a:e9:3f:
+                    b1:76:be:9a:bf:ad:76:33:d5:dc:4b:b5:6e:c8:33:
+                    84:b4:85:ba:02:a5:65:24:a6:a7:f5:56:0c:05:7f:
+                    19:b6:d4:c9:48:01:fb:5e:54:7a:34:7c:27:4f:10:
+                    1e:f6:51:f7:11:05:99:36:e0:e5:c1:72:18:82:f5:
+                    2c:02:23:fb:b5:44:f7:09:3e:9f:75:bb:a9:e3:77:
+                    a9:26:46:09:23:52:f8:c4:2b:ca:c0:b0:68:58:23:
+                    a5:1b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                0D:78:85:08:FF:1B:E0:EB:E2:62:F0:05:72:2E:A9:00:F0:29:28:33
+            X509v3 Authority Key Identifier: 
+                keyid:11:DC:14:BC:E8:E4:A5:89:D6:82:35:71:15:A3:47:D1:D8:2A:80:8E
+                DirName:/CN=CyberShield Global Root Authority
+                serial:08:C9:81:94:88:0B:37:01:DD:E7:80:99:25:C0:26:8E:3F:58:26:D3
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        7f:75:7d:e6:e4:ed:22:1d:fc:c2:45:c8:c8:40:c4:80:d3:31:
+        f6:7b:5d:ad:b4:76:da:52:dc:cc:6a:e1:47:b4:b7:24:ba:3c:
+        45:25:84:eb:e0:6e:6b:16:95:60:d6:d4:05:62:b8:ee:df:41:
+        c9:40:8e:66:94:40:09:86:ac:b4:47:ce:c1:a0:71:5a:40:62:
+        06:63:99:ee:a0:4e:2f:63:54:18:6d:88:48:0a:85:5a:75:e6:
+        c3:74:df:eb:c1:4c:09:2e:43:e8:c3:56:d6:d4:2a:19:58:44:
+        b4:7b:c1:bb:7e:a5:fe:b7:15:ec:36:74:a2:35:a5:88:bf:e8:
+        bf:8a:1e:96:94:e7:42:59:4c:50:f9:48:99:c8:59:22:4b:f5:
+        28:e9:e6:ed:72:b4:fb:c8:6b:b1:ca:66:d5:88:5a:1b:bc:b4:
+        bc:a6:3d:1f:1d:84:aa:0f:a6:06:5b:79:1d:2b:2c:31:95:f9:
+        91:30:ff:fb:29:eb:79:b9:48:3e:4d:8f:ca:02:a5:34:ff:b5:
+        57:a7:b3:16:c1:d7:d1:cf:af:d3:e8:af:e7:e1:7b:2f:9c:92:
+        75:49:4c:73:b7:9a:4f:81:99:ad:42:30:18:8a:6b:01:9e:9e:
+        8e:ae:89:78:33:72:31:76:ad:ad:a0:22:a8:00:e4:b1:f1:17:
+        d6:ef:f7:95
+-----BEGIN CERTIFICATE-----
+MIIDijCCAnKgAwIBAgIRALLxuKNUqPPQ6e1R0J+ZuoMwDQYJKoZIhvcNAQELBQAw
+LDEqMCgGA1UEAwwhQ3liZXJTaGllbGQgR2xvYmFsIFJvb3QgQXV0aG9yaXR5MB4X
+DTI2MTAwNDEwMDA0MFoXDTI5MDEwNjEwMDA0MFowGjEYMBYGA1UEAwwPRkFTVCBV
+bml2ZXJzaXR5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw45RmQXw
+B8iSL4hbDaMGsY76zmJQawH6t959Wz+Fz0vGe5e83lu7T6QAaaWBpRFWobbHb/Kh
+5EuAb2xQYKxtwg7f9C19gN2BYEGe/TI4e7DDNwyuV8vkO+5enqjiuVg5FyHlsUo5
+jhttHwo2T3MGycSMedkKZ0ZC0AvIRC+GqRRZ7LCrjs7FW9U5aY8YFs+3t96cm2gf
+fZgxVCLtCtlaBpQa6T+xdr6av612M9XcS7VuyDOEtIW6AqVlJKan9VYMBX8ZttTJ
+SAH7XlR6NHwnTxAe9lH3EQWZNuDlwXIYgvUsAiP7tUT3CT6fdbup43epJkYJI1L4
+xCvKwLBoWCOlGwIDAQABo4G4MIG1MAkGA1UdEwQCMAAwHQYDVR0OBBYEFA14hQj/
+G+Dr4mLwBXIuqQDwKSgzMGcGA1UdIwRgMF6AFBHcFLzo5KWJ1oI1cRWjR9HYKoCO
+oTCkLjAsMSowKAYDVQQDDCFDeWJlclNoaWVsZCBHbG9iYWwgUm9vdCBBdXRob3Jp
+dHmCFAjJgZSICzcB3eeAmSXAJo4/WCbTMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsG
+A1UdDwQEAwIFoDANBgkqhkiG9w0BAQsFAAOCAQEAf3V95uTtIh38wkXIyEDEgNMx
+9ntdrbR22lLczGrhR7S3JLo8RSWE6+BuaxaVYNbUBWK47t9ByUCOZpRACYastEfO
+waBxWkBiBmOZ7qBOL2NUGG2ISAqFWnXmw3Tf68FMCS5D6MNW1tQqGVhEtHvBu36l
+/rcV7DZ0ojWliL/ov4oelpTnQllMUPlImchZIkv1KOnm7XK0+8hrscpm1YhaG7y0
+vKY9Hx2Eqg+mBlt5HSssMZX5kTD/+ynreblIPk2PygKlNP+1V6ezFsHX0c+v0+iv
+5+F7L5ySdUlMc7eaT4GZrUIwGIprAZ6ejq6JeDNyMXatraAiqADksfEX1u/3lQ==
+-----END CERTIFICATE-----
